@@ -1,6 +1,7 @@
 # Pokemon Explorer
 
 A responsive Pokemon web app built with **Next.js**, **Tailwind CSS** and the free **PokeAPI**.
+Live link: "https://pokemon-explorer-kappa-tawny.vercel.app/"
 
 ## Features
 - Homepage with 1025 Pokemon, shown 40 at a time ("Show more" button)
